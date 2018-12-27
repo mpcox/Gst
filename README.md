@@ -18,9 +18,9 @@ The [*gst_prime* function](gst_prime.R) is written in base R, and requires vaues
 
 gst_prime(*k*, *H<sub>S</sub>*, *H<sub>T</sub>*)
 
-For example, a study population containing 14 subpopulations with average subpopulation heterozygosity of 0.9534 and total population heterozygosity of 0.981 would return:
+Example: a study population containing 14 subpopulations with average subpopulation heterozygosity of 0.953 and total population heterozygosity of 0.981 would return:
 
 ```
-gst_prime(14, 0.9534, 0.981)
-0.6480236
+gst_prime(14, 0.953, 0.981)
+0.6518016
 ```
