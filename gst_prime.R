@@ -11,4 +11,5 @@ gst_prime <- function (k, hs, ht){
 }
 
 # example
-gst_prime(14, 0.9534, 0.981)
+gst_prime(14, 0.953, 0.981)
+
