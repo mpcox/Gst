@@ -14,7 +14,7 @@ Specifically, the code implements equation 4b in Hedrick (2005):
 
 <img src="Hedrick_Equation4b.jpg" width="300"/>
 
-The [*gst_prime* function](gst_prime.R) is written in base R, and requires vaues for the number of subpopulations *k*, the average subpopulation heterozygosity *H<sub>S</sub>* and the total population heterozygosity *H<sub>T</sub>*.  Usage is:
+The [*gst_prime* function](gst_prime.R) is written in base R, and requires values for the number of subpopulations *k*, the average subpopulation heterozygosity *H<sub>S</sub>* and the total population heterozygosity *H<sub>T</sub>*.  Usage is:
 
 gst_prime(*k*, *H<sub>S</sub>*, *H<sub>T</sub>*)
 
